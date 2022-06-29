@@ -1,1 +1,3 @@
-# WebVirtualTypewriter
+# 虚拟打字机网站
+### 基本功能
+#### 通过 JavaScript 实现键盘按键效果以及打字机逐字出现
